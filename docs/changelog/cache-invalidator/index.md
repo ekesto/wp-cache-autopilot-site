@@ -8,6 +8,11 @@ title: Cache Invalidator Changelog
 > Auto-generated from the plugin readme. Source of truth lives in the plugin repository.
 
 
+### 11.1.2 – 2026-05-07
+* Fix: Removed first-publish fan-out behavior to keep invalidation scoped to actual changed content.
+* Enhancement: Improved content lifecycle handling to ensure publish, restore, and private status changes trigger correct targeted cache refreshes without duplicates.
+* Enhancement: Added passive lifecycle probe diagnostics to improve troubleshooting without changing runtime behavior.
+
 ### 11.1.1 – 2026-04-30
 * Fix: Bare `single` site-editor template no longer targets pages; pages resolve through `page`/`singular` per WordPress hierarchy. Use the `ekesto_ci_single_template_post_types` filter to opt back in.
 
