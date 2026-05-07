@@ -8,6 +8,9 @@ title: Cache Warmup Changelog
 > Auto-generated from the plugin readme. Source of truth lives in the plugin repository.
 
 
+### 5.0.9 – 2026-05-07
+* Fix: Fixed newly published pages occasionally being skipped during warmup before sitemap membership refreshed.
+
 ### 5.0.8 – 2026-04-30
 * Fix: Warmup log rows now show `Skipped` with a readable sitemap-membership hint instead of internal skip codes.
 * Fix: Async template changes now show `Template update` in warmup logs instead of a generic related-content label.
