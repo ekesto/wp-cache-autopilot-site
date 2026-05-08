@@ -8,6 +8,9 @@ title: Cache Warmup Changelog
 > Auto-generated from the plugin readme. Source of truth lives in the plugin repository.
 
 
+### 5.0.10 – 2026-05-08
+* Fix: Widget-triggered warmup logs now show `Widget change` instead of a technical trigger key.
+
 ### 5.0.9 – 2026-05-07
 * Fix: Fixed newly published pages occasionally being skipped during warmup before sitemap membership refreshed.
 
