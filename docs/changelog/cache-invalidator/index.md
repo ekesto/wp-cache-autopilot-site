@@ -8,6 +8,10 @@ title: Cache Invalidator Changelog
 > Auto-generated from the plugin readme. Source of truth lives in the plugin repository.
 
 
+### 12.0.0 – 2026-05-08
+* New: Fixed widget content updates not always triggering cache invalidation in both Classic Widgets and Gutenberg block widgets. Widget invalidation now reliably detects content changes while preserving existing sidebar-based targeting and fallback behavior.
+* Enhancement: Updated `ekesto_ci_widget_selectors` to receive only selectors and changed sidebar IDs.
+
 ### 11.1.2 – 2026-05-07
 * Fix: Removed first-publish fan-out behavior to keep invalidation scoped to actual changed content.
 * Enhancement: Improved content lifecycle handling to ensure publish, restore, and private status changes trigger correct targeted cache refreshes without duplicates.
