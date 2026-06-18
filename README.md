@@ -4,7 +4,7 @@ Cache Autopilot is a WordPress cache freshness plugin that keeps cached pages fr
 
 This repository contains the public changelog for Cache Autopilot:
 
-* **Cache Autopilot** – see [changelog](https://ekesto.github.io/cache-autopilot-site/docs/changelog/cache-autopilot/)
+* see [Cache Autopilot changelog](https://ekesto.github.io/cache-autopilot-site/docs/changelog/cache-autopilot/)
 
 Documentation lives on the product website. This repository exists only for release transparency and changelog history.
 
@@ -78,4 +78,5 @@ https://wpcacheautopilot.com/support/
 
 ## Maintainer
 
-Developed and maintained by Beat Schenkel (ekesto), an independent WordPress developer.
+Developed and maintained by Beat Schenkel (ekesto), an independent WordPress developer:
+https://ekesto.com/
