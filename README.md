@@ -67,15 +67,15 @@ Website:
 [wpcacheautopilot.com](https://wpcacheautopilot.com)
 
 Documentation:
-[wpcacheautopilot.com/docs/](https://wpcacheautopilot.com/docs/)
+[wpcacheautopilot.com/docs](https://wpcacheautopilot.com/docs/)
 
 Getting Started:
-[wpcacheautopilot.com/docs/getting-started/](https://wpcacheautopilot.com/docs/getting-started/)
+[wpcacheautopilot.com/docs/getting-started](https://wpcacheautopilot.com/docs/getting-started/)
 
 Support:
-[wpcacheautopilot.com/support/](https://wpcacheautopilot.com/support/)
+[wpcacheautopilot.com/support](https://wpcacheautopilot.com/support/)
 
 ## Maintainer
 
 Developed and maintained by Beat Schenkel (ekesto), an independent WordPress developer:
-[https://ekesto.com/](ekesto.com)
+[https://ekesto.com](ekesto.com)
