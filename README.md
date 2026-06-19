@@ -8,8 +8,7 @@ This repository contains the public changelog for Cache Autopilot:
 
 Documentation lives on the product website. This repository exists only for release transparency and changelog history.
 
-Visit the website:
-https://wpcacheautopilot.com
+Visit the website: [wpcacheautopilot.com](https://wpcacheautopilot.com)
 
 ## How it works
 
@@ -65,18 +64,18 @@ Cache Autopilot is built for WordPress developers, agencies managing multiple cl
 ## Links
 
 Website:
-https://wpcacheautopilot.com
+[wpcacheautopilot.com](https://wpcacheautopilot.com)
 
 Documentation:
-https://wpcacheautopilot.com/docs
+[wpcacheautopilot.com/docs](https://wpcacheautopilot.com/docs)
 
 Getting Started:
-https://wpcacheautopilot.com/docs/getting-started/
+[wpcacheautopilot.com/docs/getting-started/](https://wpcacheautopilot.com/docs/getting-started/)
 
 Support:
-https://wpcacheautopilot.com/support/
+[wpcacheautopilot.com/support/](https://wpcacheautopilot.com/support/)
 
 ## Maintainer
 
 Developed and maintained by Beat Schenkel (ekesto), an independent WordPress developer:
-https://ekesto.com/
+[https://ekesto.com/](ekesto.com)
