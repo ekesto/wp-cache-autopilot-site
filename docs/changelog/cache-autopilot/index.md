@@ -7,6 +7,11 @@ title: Cache Autopilot Changelog
 
 > Auto-generated from the plugin changelog. Source of truth lives in the plugin repository.
 
+### 1.1.0
+*Release Date 23nd June 2026*
+
+* Fix: Improved WordPress.org compatibility for plugin prefixes, admin notices, diagnostics data, and cache purge permissions.
+
 ### 1.0.2
 *Release Date 19th June 2026*
 
