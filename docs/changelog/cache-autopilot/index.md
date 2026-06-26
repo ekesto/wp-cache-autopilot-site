@@ -7,6 +7,11 @@ title: Cache Autopilot Changelog
 
 > Auto-generated from the plugin changelog. Source of truth lives in the plugin repository.
 
+### 1.1.1
+*Release Date 25th June 2026*
+
+* Fix: Preserved settings when deleting Free or PRO while the other edition remains installed.
+
 ### 1.1.0
 *Release Date 23nd June 2026*
 
